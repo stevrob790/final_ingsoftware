@@ -1,0 +1,1 @@
+// document.querySelector('#guardar').disabled = true;
